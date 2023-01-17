@@ -26,6 +26,6 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Jordan Callahan**
 
-- GitHub: [@githubhandle](
+- GitHub: [@jordancallahan](https://github.com/jordancallahan/)
